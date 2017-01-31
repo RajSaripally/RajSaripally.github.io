@@ -349,7 +349,7 @@ iframe {
     min-height: 680px;
   }
 }
-.section-vcardbody {
+.section-body {
   width: 99%;
   margin: 0 auto;
   overflow-y: scroll;
@@ -370,7 +370,7 @@ iframe {
   border-bottom: 15px solid #f4f4f4;
 }
 @media (min-width:992px) {
-  .section-vcardbody {
+  .section-body {
     position: absolute;
     margin-top: 40px;
     left: 30%;
@@ -381,11 +381,11 @@ iframe {
   }
 }
 @media (min-width: 1400px) {
-  .section-vcardbody {
+  .section-body {
     margin-top: 180px;
   }
 }
-.section-vcardbody-pgactive {
+.section-body-pgactive {
   left: 15%;
 }
 @media (min-width:992px) {
