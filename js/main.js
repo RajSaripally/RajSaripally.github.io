@@ -96,7 +96,7 @@ $('.modal-wrap').click(function(){
 $(".download_resume").on('click', function(event) {
     event.preventDefault();
 
-    window.location.href = './Raj_Saripally_Resume.doc';
+    //window.location.href = './Raj_Saripally_Resume.doc';
 
 });
 
