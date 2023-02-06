@@ -9,7 +9,7 @@
   "keywords": [
     "resume"
   ],
-  "author": "Nagaraju Saripally (Raj)",
+  "author": "Raju Saripally",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.26.3",

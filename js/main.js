@@ -94,7 +94,7 @@
       alert(
         "Sorry, unfortunately download is not available now. Please try again later"
       );
-      //window.location.href = './Nagaraju_Saripally_CV.docx';
+      //window.location.href = './Raju_Saripally_CV.docx';
     });
   });
 })(jQuery);
